@@ -1,0 +1,70 @@
+<images>
+	<photo image="images/big/101.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Hello</head><body>Welcome to the new Photo Gallery</body>]]></photo>
+	
+	<photo image="images/big/102.jpg">
+	<![CDATA[<head>Download the new Photo Gallery</head><br><body>For FREE</body>]]></photo>
+
+	<photo image="images/big/103.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Extensive customization options</head><body>for both Image Scroller and Gallery</body>]]></photo>
+	
+	<photo image="images/big/104.jpg">
+	<![CDATA[<head>Make your modifications in the right panel</head><body>Then hit the "generate settings XMLs" button</body>]]></photo>
+		
+	<photo image="images/big/105.jpg">
+	<![CDATA[<head>Create your own image transitions and text effects</head><body>or select them from existing lists using transitions and text effects generators</body>]]></photo>
+	
+	<photo image="images/big/106.jpg">
+	<![CDATA[<head>You can modify the image's frame</head><body>modify the color and width</body>]]></photo>
+	
+	<photo image="images/big/107.jpg">
+	<![CDATA[<head>You can put the Image Scroller on any position over the Gallery</head><body>And you can have it hidden on mouse out or have it fixed</body>]]></photo>
+	
+	<photo image="images/big/108.jpg">
+	<![CDATA[<head>Download the new Photo Gallery</head><br><body>For FREE</body>]]></photo>
+	
+	<photo image="images/big/109.jpg">
+	<![CDATA[<head>Put your own images and text in the "images" folder</head><body>and update the big.xml and thumbs.xml files accordingly</body>]]></photo>
+	
+	<photo image="images/big/110.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>You can put <a href="http://www.flashxml.net" target="_blank">links</a> in this <bluetext>HTML/CSS formatted text</bluetext></head><body>and you can also put links behind the big images</body>]]></photo>
+
+	<photo image="images/big/111.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Hello</head><body>Welcome to the new Photo Gallery</body>]]></photo>
+
+	<photo image="images/big/112.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Insert it in your website for free</head><br><body>without any special skills or software</body>]]></photo>
+
+	<photo image="images/big/113.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Extensive customization options</head><body>for both Image Scroller and Gallery</body>]]></photo>
+
+	<photo image="images/big/114.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Make your modifications in the right panel</head><body>Then hit the "generate settings XMLs" button</body>]]></photo>
+
+	<photo image="images/big/115.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Create your own image transitions and text effects</head><body>or select them from existing lists using transitions and text effects generators</body>]]></photo>
+
+	<photo image="images/big/116.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>You can modify the image's frame</head><body>modify the color and width</body>]]></photo>
+	
+
+	<photo image="images/big/117.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>You can put the Image Scroller on any position over the Gallery</head><body>And you can have it hidden on mouse out or have it fixed</body>]]></photo>
+
+	<photo image="images/big/118.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Hello</head><body>Welcome to the new Photo Gallery</body>]]></photo>
+
+	<photo image="images/big/119.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>You can put <a href="http://www.flashxml.net" target="_blank">links</a> in this <bluetext>HTML/CSS formatted text</bluetext></head><body>and you can also put links behind the big images</body>]]></photo>
+
+	<photo image="images/big/120.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Put your own images and text in the "images" folder</head><body>and update the XML files from the same folder accordingly</body>]]></photo>
+
+	<photo image="images/big/121.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Hello</head><body>Welcome to the new Photo Gallery</body>]]></photo>
+
+	<photo image="images/big/122.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>Insert it in your website for free</head><br><body>without any special skills or software</body>]]></photo>
+	
+		
+</images>

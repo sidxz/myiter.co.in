@@ -1,0 +1,268 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CHAKRAVYUH 2KXI| ITER</title>
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="AC_RunActiveContent.js" language="javascript"></script>
+</head>
+
+<body style="" bgcolor="#000000" >
+
+<div style="position:absolute; top:0px; left:0px; height:100%; width:100%; z-index:100; overflow: visible;">
+<table height="100%" width="100%" background="trans.png" bgcolor="">
+<tr><td></td></tr>
+</table>
+</div>
+<div id="bdy" class="comp" style="position:absolute; top:130px; right:250px; height: 202px; z-index:-10; overflow: visible;">
+	<div style="text-align:center;">
+
+		<img src="load.gif">
+
+    </div>
+	</div>
+	
+<div style="position:absolute; width:100%; height:100%; left:0px; top:0px; z-index:1; border:none; overflow:hidden">  
+
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+			'width', '1400',
+			'height', '700',
+			'src', 'Untitled-4',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'transparent',
+			'devicefont', 'false',
+			'id', 'Untitled-4',
+			'bgcolor', '#000000',
+			'name', 'Untitled-4',
+			'menu', 'false',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', 'Untitled-4',
+			'salign', ''
+			); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="1280" height="580" id="Untitled-4" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="Untitled-4.swf" /><param name="menu" value="false" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" />	<embed src="Untitled-4.swf" menu="false" quality="high" bgcolor="#000000" width="1280" height="580" name="Untitled-4" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+</div>
+
+<div id="bdy" class="comp" style="position:absolute; top:360px; left:50px; width:1100px; height: 202px; z-index:500; overflow: visible; line-height:45px;">
+	<script type="text/javascript">
+
+/***********************************************
+* Fading Scroller- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var delay = 6000; //set delay between message change (in miliseconds)
+var maxsteps=100; // number of steps to take to change from start color to endcolor
+var stepdelay=15; // time in miliseconds of a single step
+//**Note: maxsteps*stepdelay will be total time in miliseconds of fading effect
+var startcolor= new Array(000,000,000); // start color (red, green, blue)
+var endcolor=new Array(130,130,130); // end color (red, green, blue)
+
+var fcontent=new Array();
+
+
+		
+
+begintag='<font face="Arial, Verdana"  size ="6">'; //set opening tag, such as font declarations
+fcontent[0]="The lull has gone and the time has come. Show what you got in you and show us what you are. Its time for something new. Its the time for something big… ";
+fcontent[1]="Silence all those who looked you down. Shore up all who believed in you. Fear not the wrath of sun. Fear not the rage of storm. For you, the gladiator, the time is due.";
+fcontent[2]="The lull has gone and the time has come. Show what you got in you and show us what you are. Its time for something new. Its the time for something big… ";
+fcontent[3]="Silence all those who looked you down. Shore up all who believed in you. Fear not the wrath of sun. Fear not the rage of storm. For you, the gladiator, the time is due.";
+fcontent[4]="Now is Our Time!!  Celebrating TECHFEST, Institute of Technical Education & Research.";
+closetag='';
+
+var fwidth='100%'; //set scroller width
+var fheight='60px'; //set scroller height
+
+var fadelinks=1;  //should links inside scroller content also fade like text? 0 for no, 1 for yes.
+
+///No need to edit below this line/////////////////
+
+
+var ie4=document.all&&!document.getElementById;
+var DOM2=document.getElementById;
+var faderdelay=0;
+var index=0;
+
+
+/*Rafael Raposo edited function*/
+//function to change content
+function changecontent(){
+  if (index>=fcontent.length)
+    index=0
+  if (DOM2){
+    document.getElementById("fscroller").style.color="rgb("+startcolor[0]+", "+startcolor[1]+", "+startcolor[2]+")"
+    document.getElementById("fscroller").innerHTML=begintag+fcontent[index]+closetag
+    if (fadelinks)
+      linkcolorchange(1);
+    colorfade(1, 15);
+  }
+  else if (ie4)
+    document.all.fscroller.innerHTML=begintag+fcontent[index]+closetag;
+  index++
+}
+
+// colorfade() partially by Marcio Galli for Netscape Communications.  ////////////
+// Modified by Dynamicdrive.com
+
+function linkcolorchange(step){
+  var obj=document.getElementById("fscroller").getElementsByTagName("A");
+  if (obj.length>0){
+    for (i=0;i<obj.length;i++)
+      obj[i].style.color=getstepcolor(step);
+  }
+}
+
+/*Rafael Raposo edited function*/
+var fadecounter;
+function colorfade(step) {
+  if(step<=maxsteps) {	
+    document.getElementById("fscroller").style.color=getstepcolor(step);
+    if (fadelinks)
+      linkcolorchange(step);
+    step++;
+    fadecounter=setTimeout("colorfade("+step+")",stepdelay);
+  }else{
+    clearTimeout(fadecounter);
+    document.getElementById("fscroller").style.color="rgb("+endcolor[0]+", "+endcolor[1]+", "+endcolor[2]+")";
+    setTimeout("changecontent()", delay);
+	
+  }   
+}
+
+/*Rafael Raposo's new function*/
+function getstepcolor(step) {
+  var diff
+  var newcolor=new Array(3);
+  for(var i=0;i<3;i++) {
+    diff = (startcolor[i]-endcolor[i]);
+    if(diff > 0) {
+      newcolor[i] = startcolor[i]-(Math.round((diff/maxsteps))*step);
+    } else {
+      newcolor[i] = startcolor[i]+(Math.round((Math.abs(diff)/maxsteps))*step);
+    }
+  }
+  return ("rgb(" + newcolor[0] + ", " + newcolor[1] + ", " + newcolor[2] + ")");
+}
+
+if (ie4||DOM2)
+  document.write('<div id="fscroller" style="border:0px solid black;width:'+fwidth+';height:'+fheight+'"></div>');
+
+if (window.addEventListener)
+window.addEventListener("load", changecontent, false)
+else if (window.attachEvent)
+window.attachEvent("onload", changecontent)
+else if (document.getElementById)
+window.onload=changecontent
+
+</script>
+
+		<div style="text-align:right;"><font size="7" color="#ffffff" face="Arial, Verdana"><br><br>Welcome to <font size="15"><b><font color="#0088EE">CHAKRAVYUH</font>  2KXI.</b></font></font>
+		<br> <font size="3" color="#ffffff" face="Arial, Verdana">Coming soon!</div></font><br><br>
+		
+		</font>
+
+ 
+	</div>
+
+
+<div style="position:absolute; width:0px; height:0px; left:0px; top:0px; z-index:-1; border:none">  
+
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+			'width', '1px',
+			'height', '1px',
+			'src', 'music',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'transparent',
+			'devicefont', 'false',
+			'id', 'Untitled-4',
+			'bgcolor', '#000000',
+			'name', 'music',
+			'menu', 'false',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', 'music',
+			'salign', ''
+			); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="1280" height="580" id="Untitled-4" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="music.swf" /><param name="menu" value="false" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" />	<embed src="Untitled-4.swf" menu="false" quality="high" bgcolor="#000000" width="1280" height="580" name="Untitled-4" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+</div>
+
+
+
+<div style="position:absolute; top:600px; left:0px; height:310px; width:100%; z-index:100; overflow: visible;">
+<table height="100%" width="100%" background="" bgcolor="#000000">
+<tr><td></td></tr>
+</table>
+</div>
+
+<div id="bdy" class="comp" style="position:absolute; top:800px; right:50px; width:500px; height: 50px; z-index:500; overflow: visible; line-height:25px;">
+	
+
+		<font face="Arial, Verdana" color="#999999" size ="6">
+		<div style="text-align:right;"><font size="3" color="#ffffff">Techfest, Institute of Technical Educational and Research<br>
+		Bhubaneswar</font></font>
+		
+		
+		</font>
+
+ 
+	</div>
+	</div>
+	
+	<div id="bdy" class="comp" style="position:absolute; top:800px; left:50px; height:50px; width:500px; z-index:1000; overflow: visible; ">
+	 <script language="Javascript">
+        image1=new Image
+        image1.src="ring2.png"
+        image2=new Image
+        image2.src="ring.png"
+		image3=new Image
+        image3.src="fb1.png"
+        image4=new Image
+        image4.src="fb.png"
+    </script>
+		<a href="chakravyuh2kxiITER.mp3" target="_blank">
+		<img name="picture" src="ring.png" style="cursor:pointer;" onMouseOver="document.picture.src=image1.src" onMouseOut="document.picture.src=image2.src">
+		</a>
+		<a href="https://www.facebook.com/pages/Chakravyuh-2Kxi/147665151999712" target="_blank">
+		<img src="fb.png" name="picturefb" style="cursor:pointer;" onMouseOver="document.picturefb.src=image3.src" onMouseOut="document.picturefb.src=image4.src" ></a>
+
+	</div>
+
+</body>
+</html>

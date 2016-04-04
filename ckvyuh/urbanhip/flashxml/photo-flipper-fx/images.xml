@@ -1,0 +1,33 @@
+﻿<images>
+	<photo image="images/101.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>Hello</head><body>Welcome to the new Photo Flipper</body>]]></photo>
+	
+	<photo image="images/102.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head><img src="images/102.jpg" height="50" width="100">Download the new Photo Flipper</head><br>]]></photo>
+	
+	<photo image="images/103.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>Insert it in your website for free</head><br><body>without any special skills or software</body>]]></photo>
+
+	<photo image="images/104.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>Extensive customization options</head>]]></photo>
+	
+	<photo image="images/105.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>Make your modifications in the configuration panel</head>]]></photo>
+		
+	<photo image="images/106.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>Create your own layout</head><body>by specifing some sample rules in a XML file</body>]]></photo>
+	
+	<photo image="images/107.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>You can choose the roll over behaviour</head><body>Either have the photos flip or slide</body>]]></photo>
+	
+	<photo image="images/108.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>You can adjust the Field of View attribute</head><body>for a different effect when flipping</body>]]></photo>
+	
+	<photo image="images/109.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>Put your own images in the "images" folder</head><body>and update the XML files from the same folder accordingly</body>]]></photo>
+	
+	<photo image="images/110.jpg" url="http://www.flashxml.net" target="_blank" >
+	<![CDATA[<head>You can put <a href="http://www.flashxml.net" target="_blank">links</a></head> <body>in this <bluetext>HTML/CSS formatted text</bluetext></body>]]></photo>
+	
+	
+</images>

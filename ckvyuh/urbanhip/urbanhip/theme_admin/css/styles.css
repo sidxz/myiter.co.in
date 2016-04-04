@@ -1,0 +1,24 @@
+.themeAdminWrapper {}
+
+.themeOptions {}
+
+.themeTableWrapper .themeTable { margin-bottom: 1em; }
+
+.themeTableWrapper tr td, .themeTableWrapper tr th { padding-top: 8px; padding-bottom: 8px; vertical-align: top;}
+
+.themeTable tbody th { width: 200px; }
+
+.themeTableWrapper h4 { margin-top: 0.5em; }
+.slideOptionsTable h4 { margin-bottom: 0; }
+
+p.submit { padding-top: 0; }
+
+.customOption { display: none; }
+
+.slideOption {width: 100px;}
+
+.noThumbnail {
+	border: 1px solid #ccc;
+	background: #eee;
+	padding: 45px 0;
+	margin: 0 29px;}

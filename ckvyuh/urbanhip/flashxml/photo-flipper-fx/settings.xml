@@ -1,0 +1,72 @@
+﻿<settings>
+  <General_Properties>
+    <componentWidth value="903"/>
+    <componentHeight value="500"/>
+    <assets value="images.xml"/>
+    <preloader value="assets/preloaders/flowersGradient.swf"/>
+    <showAbout value="true"/>
+    <flipTime value="0.5"/>
+    <square value="assets/square.xml"/>
+    <fieldOfView value="1"/>
+    <overEfect value="flip"/>
+    <slidePosition value="right"/>
+  </General_Properties>
+  <Scroll_Properties>
+    <thumbColor value="7368816"/>
+    <thumbAlpha value="1"/>
+    <trackColor value="0"/>
+    <trackAlpha value="1"/>
+    <thumbWidth value="5"/>
+    <trackWidth value="5"/>
+  </Scroll_Properties>
+  <BackItem_Properties>
+    <fill value="solid"/>
+    <backBgColor1 value="0x000000"/>
+    <backBgColor2 value="0x000000"/>
+    <backGradientRotation value="21"/>
+    <backGradientRatio value="10"/>
+    <backGradientPosX value="0"/>
+    <backGradientPosY value="0"/>
+  </BackItem_Properties>
+  <Border_Properties>
+    <borderColor value="0xC53489"/>
+    <borderAlpha value="1"/>
+    <cornerRadius value="0"/>
+    <borderWidth value="2"/>
+  </Border_Properties>
+  <Text_Properties>
+    <styleSheet value="assets/css/styleSheet.css"/>
+    <width value="250"/>
+    <headBgColor value="16711884"/>
+    <textBgAlpha value="0.3"/>
+    <textBorderColor value="0xffffff"/>
+    <textBorderAlpha value="0.5"/>
+    <textBorderWidth value="0.3"/>
+    <textCornerRadius value="0"/>
+    <paddingLeft value="10"/>
+    <paddingRight value="10"/>
+    <paddingTop value="10"/>
+    <paddingBottom value="10"/>
+    <embedFonts value="true"/>
+  </Text_Properties>
+  <Background_Properties>
+    <backgroundImage value=" "/>
+    <fillType value="solid"/>
+    <backgroundColor1 value="0x000000"/>
+    <backgroundColor2 value="0x000000"/>
+    <backgroundAlpha value="1"/>
+    <bgCornerRadius value="5"/>
+    <gradientRotation value="30"/>
+    <gradientRatio value="40"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+  </Background_Properties>
+  <Shade_Properties>
+    <useShade value="false"/>
+    <shadeColor value="0x333333"/>
+    <shadeAlpha value="1"/>
+    <shadeRatio value="250"/>
+    <shadeWidth value="1000"/>
+    <shadeHeight value="811"/>
+  </Shade_Properties>
+</settings>

@@ -1,0 +1,78 @@
+﻿<settings>
+  <General_Properties>
+    <componentWidth value="1051"/>
+    <componentHeight value="575"/>
+    <preloader value="assets/preloaders/comet.swf"/>
+    <slideShow value="false"/>
+    <slideShow value="false"/>
+    <delay value="3"/>
+    <imageFitting value="bestfit"/>
+    <useCustomColor value="false"/>
+    <customColor value=""/>
+    <scrollIconLink value="assets/scrollCursorBlack.png"/>
+    <closeIconLink value="assets/closeIconBlack.png"/>
+    <urlIconLink value="assets/goToUrlBlack.png"/>
+    <controls value="assets/skins/skin1.xml"/>
+    <assets value="big.xml"/>
+    <showAbout value="true"/>
+  </General_Properties>
+  <Background_Properties>
+    <fillType value="solid"/>
+    <backgroundImage value=""/>
+    <backgroundFitting value=""/>
+    <backgroundColor1 value="0xbbbbbb"/>
+    <backgroundColor2 value=""/>
+    <backgroundAlpha value="1"/>
+    <bgCornerRadius value="0"/>
+    <gradientRotation value="0"/>
+    <gradientRatio value="0"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+    <useShade value="false"/>
+    <shadeColor value=""/>
+    <shadeAlpha value="0"/>
+    <shadeRatio value="0"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Background_Properties>
+  <Scroll_Properties>
+    <useAutoScroll value="true"/>
+    <clickForScroll value="true"/>
+    <scrollTime value="1"/>
+  </Scroll_Properties>
+  <Loading_Transitions>
+    <loadingTrans value="assets/transitions/3D.xml?uid=1299581567126"/>
+    <randomTrans value="true"/>
+  </Loading_Transitions>
+  <Text_Effects>
+    <textEff value="assets/transitions/favorites-text.xml?uid=1299581567507"/>
+    <randomTextEff value="true"/>
+  </Text_Effects>
+  <Text_Properties>
+    <textEffectDelay value="0"/>
+    <bodyTextDelay value="0.71"/>
+    <styleSheet value="assets/css/style.css?uid=1299581567731"/>
+    <hPos value="left"/>
+    <vPos value="center"/>
+    <bodyDistance value="35"/>
+    <offset value="58"/>
+    <width value="0"/>
+    <headBgColor value="0xc53489"/>
+    <bodyBgColor value="0x000000"/>
+    <bgAlpha value="0.53"/>
+    <borderColor value="0xffffff"/>
+    <borderAlpha value="0.12"/>
+    <borderWidth value="0.3"/>
+    <cornerRadius value="0"/>
+    <paddingLeft value="7"/>
+    <paddingRight value="7"/>
+    <paddingTop value="7"/>
+    <paddingBottom value="7"/>
+    <embedFonts value="true"/>
+		<headUseDouble value="true"/>
+	<headOffsetDirection value="TC"/>
+    <bodyUseDouble value="true"/>
+    <bodyOffsetDirection value="TC"/>
+
+  </Text_Properties>
+</settings>

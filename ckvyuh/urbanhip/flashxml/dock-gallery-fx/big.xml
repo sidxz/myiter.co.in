@@ -1,0 +1,32 @@
+<images>
+	<photo image="images/big/101.jpg">
+	<![CDATA[<head>Hello</head><body>Welcome to the new Dock Gallery</body>]]></photo>
+	
+	<photo image="images/big/102.jpg">
+	<![CDATA[<head>Download the new Dock Gallery</head><br><body>For FREE</body>]]></photo>
+	
+	<photo image="images/big/103.jpg">
+	<![CDATA[<head>Insert it in your website for free</head><br><body>without any special skills or software</body>]]></photo>
+	
+	<photo image="images/big/104.jpg">
+	<![CDATA[<head>Extensive customization options</head><body>for both Dock Menu and Gallery</body>]]></photo>
+	
+	<photo image="images/big/105.jpg">
+	<![CDATA[<head>Make your modifications in the right panel</head><body>Then hit the "generate settings XMLs" button</body>]]></photo>
+	
+	<photo image="images/big/106.jpg">
+	<![CDATA[<head>Create your own image transitions and text effects</head><body>or select them from existing lists using transitions and text effects generators</body>]]></photo>
+	
+	<photo image="images/big/107.jpg">
+	<![CDATA[<head>You can choose the fitting type for your images in the gallery</head><body>select from bestFit, boxFit or forceFit</body>]]></photo>
+	
+	<photo image="images/big/108.jpg">
+	<![CDATA[<head>You can put the Dock Menu on any position over the Gallery</head><body>And you can have it hidden on mouse out or have it fixed</body>]]></photo>
+	
+	<photo image="images/big/109.jpg">
+	<![CDATA[<head>Put your own images and text in the "images" folder</head><body>and update the XML files from the same folder accordingly</body>]]></photo>
+	
+	<photo image="images/big/110.jpg" url = "http://www.flashxml.net">
+	<![CDATA[<head>You can put <a href="http://www.flashxml.net" target="_blank">links</a> in this <bluetext>HTML/CSS formatted text</bluetext></head><body>and you can also put links behind the big images</body>]]></photo>
+	
+</images>

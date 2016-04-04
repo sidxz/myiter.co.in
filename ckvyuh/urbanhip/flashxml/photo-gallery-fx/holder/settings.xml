@@ -1,0 +1,69 @@
+<settings>
+  <General_Properties>
+    <componentWidth value="1589"/>
+    <componentHeight value="911"/>
+    <preloader value="assets/preloaders/depthCircles.swf"/>
+    <slideShow value="false"/>
+    <delay value="3"/>
+    <imageFitting value="forcefit"/>
+    <urlIconLink value="assets/goToUrlTransp2.png"/>
+    <controls value="assets/skins/skin1.xml"/>
+    <assets value="big.xml"/>
+    <showAbout value="true"/>
+  </General_Properties>
+  <Background_Properties>
+    <backgroundImage value="assets/floral2.jpg"/>
+    <fillType value="image"/>
+	<backgroundFitting value="bestFit"/>
+    <backgroundColor1 value="0x000000"/>
+    <backgroundColor2 value="0x000066"/>
+    <backgroundAlpha value="1"/>
+    <bgCornerRadius value="0"/>
+    <gradientRotation value="34"/>
+    <gradientRatio value="10"/>
+    <gradientPosX value="-178"/>
+    <gradientPosY value="0"/>
+  </Background_Properties>
+  <Frame_Properties>
+    <motion value="Cubic"/>
+    <ease value="easeOut"/>
+    <motionTime value="0.5"/>
+    <frameColor value="0xc53489"/>
+    <frameWidth value="0"/>
+    <frameAlpha value="0"/>
+  </Frame_Properties>
+  <Loading_Transitions>
+    <loadingTrans value="assets/transitions/3D.xml"/>
+    <randomTrans value="true"/>
+  </Loading_Transitions>
+  <Text_Effects>
+    <textEff value="assets/transitions/favorites-text.xml"/>
+    <randomTextEff value="true"/>
+  </Text_Effects>
+  <Text_Properties>
+    <textEffectDelay value="0"/>
+    <bodyTextDelay value="0.71"/>
+    <styleSheet value="assets/css/style.css"/>
+    <hPos value="left"/>
+    <vPos value="center"/>
+    <bodyDistance value="14"/>
+    <offset value="32"/>
+    <width value="0"/>
+    <headBgColor value="0x000000"/>
+    <bodyBgColor value="0xc53489"/>
+    <bgAlpha value="0.53"/>
+    <borderColor value="0x00ffff"/>
+    <borderAlpha value="0"/>
+    <borderWidth value="0.3"/>
+    <cornerRadius value="0"/>
+    <paddingLeft value="7"/>
+    <paddingRight value="7"/>
+    <paddingTop value="7"/>
+    <paddingBottom value="7"/>
+    <embedFonts value="true"/>
+	<headUseDouble value="true"/>
+	<headOffsetDirection value="TC"/>
+    <bodyUseDouble value="true"/>
+    <bodyOffsetDirection value="TC"/>
+  </Text_Properties>
+</settings>

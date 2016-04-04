@@ -1,0 +1,11 @@
+﻿<square>
+	<zone xPercent="0" yPercent="0" wPercent="35" hPercent="30" />
+	<zone xPercent="35" yPercent="0" wPercent="35" hPercent="20" />
+	<zone xPercent="70" yPercent="0" wPercent="30" hPercent="20" />
+	<zone xPercent="0" yPercent="30" wPercent="20" hPercent="25" />
+	<zone xPercent="20" yPercent="30" wPercent="15" hPercent="25" />
+	<zone xPercent="35" yPercent="20" wPercent="65" hPercent="35" />
+	<zone xPercent="0" yPercent="55" wPercent="70" hPercent="45" />
+	<zone xPercent="70" yPercent="55" wPercent="30" hPercent="45" />
+	
+</square>

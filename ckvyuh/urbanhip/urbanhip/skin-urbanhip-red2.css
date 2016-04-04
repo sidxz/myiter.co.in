@@ -1,0 +1,27 @@
+/*   
+UrbanHip - skin red2
+*/
+
+.head_line{background-color:#c5425b;}
+#header #navigation #menu-navigation li a:hover{background-color:#c5425b;}
+#content .cont_left .one_post h1 span.comment_nr{background:url(images/comment_nr_red2.png) no-repeat;}
+#content .cont_left .one_post .date span{color:#c5425b;}
+#content .cont_left .one_post h1{color:#c5425b;}
+#content .cont_left .one_post h1 a.title{color:#c5425b;}
+#content .cont_left .one_post h1 a.title:hover{background-color:#c5425b;}
+#content .cont_left .one_post .excerpt a.more:hover{color:#c5425b;}
+.sidebar h3{background-color:#c5425b;}
+.one_port .under_port h4{color:#c5425b;}
+.one_port .under_port h4 a{color:#c5425b;}
+.fullwidth h3{color:#c5425b;}
+.contactform .form_row input.contact_submit{background-color:#c5425b;}
+
+h1{color:#c5425b;}
+h2{color:#c5425b;}
+h3{color:#c5425b;}
+h4{color:#c5425b;}
+h5{color:#c5425b;}
+h6{color:#c5425b;}
+
+#commentform p #submit{background-color:#c5425b;}
+.wpcf7-form .form_row input.contact_submit{background-color:#c5425b;}

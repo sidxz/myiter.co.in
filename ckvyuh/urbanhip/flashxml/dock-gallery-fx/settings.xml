@@ -1,0 +1,15 @@
+﻿<settings>
+  <General_Properties>
+    <position value="bottom"/>
+    <hide value="alpha"/>
+    <slideDirection value="leftright"/>
+    <time value="1"/>
+    <motion value="Cubic"/>
+    <ease value="easeOut"/>
+    <useButton value="false"/>
+    <arrow value="assets/redarrow.png"/>
+    <margin value="0"/>
+    <path value="DockMenuFX"/>
+    <showAbout value="true"/>
+  </General_Properties>
+</settings>

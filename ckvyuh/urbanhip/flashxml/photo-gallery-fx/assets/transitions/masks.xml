@@ -1,0 +1,28 @@
+<transitions>
+
+	<transition name = 'mask1' > 
+		<link value = "assets/transitions/masks/mask1.swf"/>
+	</transition>	
+	<transition name = 'mask2' > 
+		<link value = "assets/transitions/masks/mask2.swf"/>
+	</transition>
+	<transition name = 'mask4' > 
+		<link value = "assets/transitions/masks/mask4.swf"/>
+	</transition>
+	<transition name = 'mask5' > 
+		<link value = "assets/transitions/masks/mask5.swf"/>
+	</transition>
+	<transition name = 'mask16' > 
+		<link value = "assets/transitions/masks/mask16.swf"/>
+	</transition>
+	<transition name = 'mask23' > 
+		<link value = "assets/transitions/masks/mask23.swf"/>
+	</transition>
+	<transition name = 'mask25' > 
+		<link value = "assets/transitions/masks/mask25.swf"/>
+	</transition>
+	<transition name = 'mask26' > 
+		<link value = "assets/transitions/masks/mask26.swf"/>
+	</transition>
+	
+</transitions>

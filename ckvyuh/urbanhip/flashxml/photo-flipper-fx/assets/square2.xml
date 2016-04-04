@@ -1,0 +1,18 @@
+﻿<square>
+	<zone xPercent="0" yPercent="0" wPercent="20" hPercent="20" />
+	<zone xPercent="20" yPercent="0" wPercent="20" hPercent="20" />
+	<zone xPercent="40" yPercent="0" wPercent="20" hPercent="20" />
+	<zone xPercent="60" yPercent="0" wPercent="20" hPercent="20" />
+	<zone xPercent="80" yPercent="0" wPercent="20" hPercent="20" />
+	<zone xPercent="0" yPercent="20" wPercent="33" hPercent="33" />
+	<zone xPercent="33" yPercent="20" wPercent="33" hPercent="33" />
+	<zone xPercent="66" yPercent="20" wPercent="34" hPercent="33" />
+	<zone xPercent="0" yPercent="53" wPercent="20" hPercent="20" />
+	<zone xPercent="20" yPercent="53" wPercent="20" hPercent="20" />
+	<zone xPercent="40" yPercent="53" wPercent="20" hPercent="20" />
+	<zone xPercent="60" yPercent="53" wPercent="20" hPercent="20" />
+	<zone xPercent="80" yPercent="53" wPercent="20" hPercent="20" />
+	<zone xPercent="0" yPercent="73" wPercent="33" hPercent="27" />
+	<zone xPercent="33" yPercent="73" wPercent="33" hPercent="27" />
+	<zone xPercent="66" yPercent="73" wPercent="34" hPercent="27" />
+</square>

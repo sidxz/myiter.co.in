@@ -1,0 +1,27 @@
+/*   
+UrbanHip - skin orange
+*/
+
+.head_line{background-color:#d16403;}
+#header #navigation #menu-navigation li a:hover{background-color:#d16403;}
+#content .cont_left .one_post h1 span.comment_nr{background:url(images/comment_nr_orange.png) no-repeat;}
+#content .cont_left .one_post .date span{color:#d16403;}
+#content .cont_left .one_post h1{color:#d16403;}
+#content .cont_left .one_post h1 a.title{color:#d16403;}
+#content .cont_left .one_post h1 a.title:hover{background-color:#d16403;}
+#content .cont_left .one_post .excerpt a.more:hover{color:#d16403;}
+.sidebar h3{background-color:#d16403;}
+.one_port .under_port h4{color:#d16403;}
+.one_port .under_port h4 a{color:#d16403;}
+.fullwidth h3{color:#d16403;}
+.contactform .form_row input.contact_submit{background-color:#d16403;}
+
+h1{color:#d16403;}
+h2{color:#d16403;}
+h3{color:#d16403;}
+h4{color:#d16403;}
+h5{color:#d16403;}
+h6{color:#d16403;}
+
+#commentform p #submit{background-color:#d16403;}
+.wpcf7-form .form_row input.contact_submit{background-color:#d16403;}

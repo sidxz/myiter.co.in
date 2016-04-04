@@ -1,0 +1,27 @@
+/*   
+UrbanHip - skin blue2
+*/
+
+.head_line{background-color:#000000;  background:url(trans.png) center center repeat-x; }
+#header #navigation #menu-navigation li a:hover{background-color:#3a7dab;}
+#content .cont_left .one_post h1 span.comment_nr{background:url(images/comment_nr_blue2.png) no-repeat;}
+#content .cont_left .one_post .date span{color:#3a7dab;}
+#content .cont_left .one_post h1{color:#3a7dab;}
+#content .cont_left .one_post h1 a.title{color:#3a7dab;}
+#content .cont_left .one_post h1 a.title:hover{background-color:#3a7dab;}
+#content .cont_left .one_post .excerpt a.more:hover{color:#3a7dab;}
+.sidebar h3{background-color:#3a7dab;}
+.one_port .under_port h4{color:#3a7dab;}
+.one_port .under_port h4 a{color:#3a7dab;}
+.fullwidth h3{color:#3a7dab;}
+.contactform .form_row input.contact_submit{background-color:#3a7dab;}
+
+h1{color:#3a7dab;}
+h2{color:#3a7dab;}
+h3{color:#3a7dab;}
+h4{color:#3a7dab;}
+h5{color:#3a7dab;}
+h6{color:#3a7dab;}
+
+#commentform p #submit{background-color:#3a7dab;}
+.wpcf7-form .form_row input.contact_submit{background-color:#3a7dab;}

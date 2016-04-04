@@ -1,0 +1,27 @@
+/*   
+UrbanHip - skin yellow
+*/
+
+.head_line{background-color:#d18e37;}
+#header #navigation #menu-navigation li a:hover{background-color:#d18e37;}
+#content .cont_left .one_post h1 span.comment_nr{background:url(images/comment_nr_yellow.png) no-repeat;}
+#content .cont_left .one_post .date span{color:#d18e37;}
+#content .cont_left .one_post h1{color:#d18e37;}
+#content .cont_left .one_post h1 a.title{color:#d18e37;}
+#content .cont_left .one_post h1 a.title:hover{background-color:#d18e37;}
+#content .cont_left .one_post .excerpt a.more:hover{color:#d18e37;}
+.sidebar h3{background-color:#d18e37;}
+.one_port .under_port h4{color:#d18e37;}
+.one_port .under_port h4 a{color:#d18e37;}
+.fullwidth h3{color:#d18e37;}
+.contactform .form_row input.contact_submit{background-color:#d18e37;}
+
+h1{color:#d18e37;}
+h2{color:#d18e37;}
+h3{color:#d18e37;}
+h4{color:#d18e37;}
+h5{color:#d18e37;}
+h6{color:#d18e37;}
+
+#commentform p #submit{background-color:#d18e37;}
+.wpcf7-form .form_row input.contact_submit{background-color:#d18e37;}

@@ -1,0 +1,15 @@
+﻿<settings>
+  <General_Properties>
+    <position value="bottom"/>
+    <hide value="slide"/>
+    <slideDirection value="leftright"/>
+    <time value="1"/>
+    <motion value="Cubic"/>
+    <ease value="easeOut"/>
+    <useButton value="true"/>
+    <arrow value="assets/show.gif"/>
+    <margin value="0"/>
+    <path value="ImageScrollerFX"/>
+    <showAbout value="true"/>
+  </General_Properties>
+</settings>

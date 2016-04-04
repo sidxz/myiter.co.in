@@ -1,0 +1,27 @@
+/*   
+UrbanHip - skin blue
+*/
+
+.head_line{background-color:#09aba9;}
+#header #navigation #menu-navigation li a:hover{background-color:#09aba9;}
+#content .cont_left .one_post h1 span.comment_nr{background:url(images/comment_nr_blue.png) no-repeat;}
+#content .cont_left .one_post .date span{color:#09aba9;}
+#content .cont_left .one_post h1{color:#09aba9;}
+#content .cont_left .one_post h1 a.title{color:#09aba9;}
+#content .cont_left .one_post h1 a.title:hover{background-color:#09aba9;}
+#content .cont_left .one_post .excerpt a.more:hover{color:#09aba9;}
+.sidebar h3{background-color:#09aba9;}
+.one_port .under_port h4{color:#09aba9;}
+.one_port .under_port h4 a{color:#09aba9;}
+.fullwidth h3{color:#09aba9;}
+.contactform .form_row input.contact_submit{background-color:#09aba9;}
+
+h1{color:#09aba9;}
+h2{color:#09aba9;}
+h3{color:#09aba9;}
+h4{color:#09aba9;}
+h5{color:#09aba9;}
+h6{color:#09aba9;}
+
+#commentform p #submit{background-color:#09aba9;}
+.wpcf7-form .form_row input.contact_submit{background-color:#09aba9;}

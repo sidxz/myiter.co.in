@@ -1,0 +1,27 @@
+/*   
+UrbanHip - skin purple
+*/
+
+.head_line{background-color:#ab3aa7;}
+#header #navigation #menu-navigation li a:hover{background-color:#ab3aa7;}
+#content .cont_left .one_post h1 span.comment_nr{background:url(images/comment_nr_purple.png) no-repeat;}
+#content .cont_left .one_post .date span{color:#ab3aa7;}
+#content .cont_left .one_post h1{color:#ab3aa7;}
+#content .cont_left .one_post h1 a.title{color:#ab3aa7;}
+#content .cont_left .one_post h1 a.title:hover{background-color:#ab3aa7;}
+#content .cont_left .one_post .excerpt a.more:hover{color:#ab3aa7;}
+.sidebar h3{background-color:#ab3aa7;}
+.one_port .under_port h4{color:#ab3aa7;}
+.one_port .under_port h4 a{color:#ab3aa7;}
+.fullwidth h3{color:#ab3aa7;}
+.contactform .form_row input.contact_submit{background-color:#ab3aa7;}
+
+h1{color:#ab3aa7;}
+h2{color:#ab3aa7;}
+h3{color:#ab3aa7;}
+h4{color:#ab3aa7;}
+h5{color:#ab3aa7;}
+h6{color:#ab3aa7;}
+
+#commentform p #submit{background-color:#ab3aa7;}
+.wpcf7-form .form_row input.contact_submit{background-color:#ab3aa7;}

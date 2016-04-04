@@ -1,0 +1,3 @@
+Version 1.0.1.3827 - 06-Feb-11
+	- moved all the assets to assets folder
+	- some attributes from the settings.xml files have been renamed

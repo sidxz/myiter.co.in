@@ -1,0 +1,87 @@
+<transitions>
+
+	<textTransition name='DifuseLetters' type='DifuseLetters' time='2'/>
+
+	<textTransition name='WordsYRotate' type='WordsYRotate' time='2'/>
+
+	<textTransition name='WaveWords' type='WaveWords' time='2'/>
+
+	<textTransition name='VerticalCurtain' type='VerticalCurtain' time='2'/>
+
+	<textTransition name='Twister' type='Twister' time='2'/>
+
+	<textTransition name='Travell' type='Travell' time='2'/>
+
+	<textTransition name='SpeedingWords' type='SpeedingWords' time='2'/>
+
+	<textTransition name='SmallBig' type='SmallBig' time='2'/>
+
+	<textTransition name='SectionalScaleOut' type='SectionalScaleOut' time='2'/>
+
+	<textTransition name='ScaleUnite' type='ScaleUnite' time='2'/>
+
+	<textTransition name='ScaleOut' type='ScaleOut' time='2'/>
+
+	<textTransition name='RotatingText' type='RotatingText' time='2'/>
+
+	<textTransition name='RandomVerticalBars' type='RandomVerticalBars' time='2'/>
+
+	<textTransition name='RandomPositionBars' type='RandomPositionBars' time='2'/>
+
+	<textTransition name='RandomAlphaLetters' type='RandomAlphaLetters' time='2'/>
+
+	<textTransition name='Radiation' type='Radiation' time='2'/>
+
+	<textTransition name='Popcorn' type='Popcorn' time='2'/>
+
+	<textTransition name='NeonWords' type='NeonWords' time='2'/>
+
+	<textTransition name='NeonLetters' type='NeonLetters' time='2'/>
+
+	<textTransition name='LowSignal' type='LowSignal' time='2'/>
+
+	<textTransition name='LateralDifuse' type='LateralDifuse' time='2'/>
+
+	<textTransition name='Industrial' type='Industrial' time='2'/>
+
+	<textTransition name='Implosion' type='Implosion' time='2'/>
+
+	<textTransition name='HorizontalGrow' type='HorizontalGrow' time='2'/>
+
+	<textTransition name='HorizontalBars' type='HorizontalBars' time='2'/>
+
+	<textTransition name='Heartbeat' type='Heartbeat' time='2'/>
+
+	<textTransition name='FlashForward' type='FlashForward' time='2'/>
+
+	<textTransition name='FireworksLetters' type='FireworksLetters' time='2'/>
+
+	<textTransition name='FallingAlpha' type='FallingAlpha' time='2'/>
+
+	<textTransition name='Enlight' type='Enlight' time='2'/>
+
+	<textTransition name='Earthquake' type='Earthquake' time='2'/>
+
+	<textTransition name='Doubling' type='Doubling' time='2'/>
+
+	<textTransition name='DoubleWords' type='DoubleWords' time='2'/>
+
+	<textTransition name='DoubleDrop' type='DoubleDrop' time='2'/>
+
+	<textTransition name='DiagonalLetters' type='DiagonalLetters' time='1'/>
+
+	<textTransition name='Clash' type='Clash' time='2'/>
+
+	<textTransition name='BouncingReflection' type='BouncingReflection' time='2'/>
+
+	<textTransition name='BlurY' type='BlurY' time='2'/>
+
+	<textTransition name='BlurLight' type='BlurLight' time='0.8'/>
+
+	<textTransition name='BlurLetters' type='BlurLetters' time='2'/>
+
+	<textTransition name='AlphaUnite' type='AlphaUnite' time='2'/>
+
+	<textTransition name='AlphaGlow' type='AlphaGlow' time='3'/>
+
+</transitions>

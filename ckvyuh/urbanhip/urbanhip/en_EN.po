@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flashxml\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-07 22:06+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Flashxml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr ""
+
+#: archive.php:16
+msgid "Archive for the Category"
+msgstr ""
+
+#: archive.php:18
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:20
+#: archive.php:22
+#: archive.php:24
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:26
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:18
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:63
+#: blog.php:55
+#: home_with_dock_gallery.php:59
+#: home_with_photo_gallery.php:59
+#: index.php:61
+#: portfolio.php:50
+#: search.php:34
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: archive.php:64
+#: blog.php:56
+#: home_with_dock_gallery.php:60
+#: index.php:62
+#: portfolio.php:51
+#: search.php:35
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: archive.php:71
+msgid "Not Found"
+msgstr ""
+
+#: archives.php:28
+msgid "Archives by Month:"
+msgstr ""
+
+#: archives.php:34
+msgid "Archives by Subject:"
+msgstr ""
+
+#: blog.php:73
+msgid "Categories"
+msgstr ""
+
+#: blog.php:78
+msgid "Archives"
+msgstr ""
+
+#: blog.php:83
+msgid "Blogroll"
+msgstr ""
+
+#: comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:40
+msgid "Leave a Reply..."
+msgstr ""
+
+#: comments.php:15
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:40
+msgid "Leave a Reply... %s"
+msgstr ""
+
+#: comments.php:46
+msgid "You must be"
+msgstr ""
+
+#: comments.php:46
+msgid "logged in"
+msgstr ""
+
+#: comments.php:46
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:53
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:53
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:56
+msgid "Name:"
+msgstr ""
+
+#: comments.php:60
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:64
+msgid "Website"
+msgstr ""
+
+#: comments.php:71
+msgid "Message"
+msgstr ""
+
+#: comments.php:74
+msgid "Submit"
+msgstr ""
+
+#: contact.php:13
+msgid "Leave a Message"
+msgstr ""
+
+#: blog.php:43
+msgid "Read more"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:42
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Recent posts"
+msgstr ""
+
+#: sidebar.php:23
+msgid "SEE MORE POSTS"
+msgstr ""
+
+#: archive.php:48
+#: blog.php:40
+#: home_with_dock_gallery.php:45
+#: home_with_photo_gallery.php:45
+#: index.php:47
+#: single.php:30
+msgid "Posted by"
+msgstr ""
+
+#: archive.php:48
+#: blog.php:40
+#: home_with_dock_gallery.php:45
+#: home_with_photo_gallery.php:45
+#: index.php:47
+#: single.php:30
+msgid "in"
+msgstr ""
+
